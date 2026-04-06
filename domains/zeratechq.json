@@ -4,6 +4,6 @@
     "email": "zera.techq@gmail.com"
   },
   "record": {
-    "CNAME": "github.com"
+    "A": ["76.76.21.21"]
   }
 }
